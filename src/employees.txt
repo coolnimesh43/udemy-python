@@ -1,0 +1,6 @@
+Mike
+Joe
+Jenna
+Jack
+Walter
+Written using with context manager
